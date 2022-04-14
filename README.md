@@ -1,2 +1,2 @@
 # Simple_weather_search
-Created with CodeSandbox
+Created with CodeSandbox using React
